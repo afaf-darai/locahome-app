@@ -28,7 +28,6 @@ class _LoginScreenState extends State<LoginScreen> {
           children: [
             Image.asset(
               "images/logo.png",
-              // Tu peux aussi définir la taille de l'image si nécessaire
               height: 200.0,
               width: 200.0,
             ),
